@@ -14,7 +14,7 @@ Welcome to my personal knowledge base — a living collection of notes, study ma
 
 ## A bit about me
 
-I'm a Computer Science student based in Davao City, currently navigating my third year while staying involved in my local church — helping with preaching prep, discipleship, and graphic design for weekly events.
+I'm a Computer Science student based in Zamboanga City, currently navigating my third year while staying involved in my local church — helping with preaching notes, discipleship, and graphic design for weekly posts.
 
 This site is my "second brain" — a space where ideas connect, scripture meets study, and faith and learning grow side by side.
 
