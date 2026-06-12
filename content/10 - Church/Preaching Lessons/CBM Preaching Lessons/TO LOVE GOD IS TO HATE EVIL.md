@@ -44,4 +44,5 @@
 - Ye that love the Lord, **Hate Evil**.
 - If you **love the Evil**, you **hate God**.
 
-[[🎯 THE OPPORTUNITY TO HAVE JESUS]] and today is [[Authentic Charitable Service]] 
+[[THE OPPORTUNITY TO HAVE JESUS]] and today is [[Authentic Charitable Service]] 
+notefor
