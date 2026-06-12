@@ -1,4 +1,3 @@
-
 ## Text: John 2:3-10 (KJV)##
 
 - **Water** is a simple substance, yet God (Jesus) turned it into **wine**. (Complicated Formulas)
