@@ -1,0 +1,3 @@
+- **Use references** for AI (Screenshots of examples)
+- Use **.md files** for context and no **extra searching** and **token usage**
+-

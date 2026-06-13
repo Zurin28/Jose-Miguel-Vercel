@@ -1,0 +1,6 @@
+- It is like if an incident happened, how do i inspect a file or anything:
+  - What happened 
+  - Who did it
+  - when did it happen
+  - how do you solve it
+- Like how you inspect something (Maybe)
