@@ -1,40 +1,125 @@
 @use "./variables.scss" as *;
 
+// ======================================================================
+// 1. CORE QUARTZ THEME VARIABLE OVERRIDES
+// ======================================================================
 :root {
-  // 1. LIGHT MODE SETTINGS
-  &[saved-theme="light"] {
-    background: linear-gradient(135deg, #2d1b4e 0%, #3d2b63 25%, #f5f5f5 70%, #f5f5f5 100%) !important;
-    background-attachment: fixed !important;
+  // Global Typography Fonts
+  --headerFont: "Schibsted Grotesk", sans-serif;
+  --bodyFont: "Source Sans Pro", sans-serif;
+  --codeFont: "IBM Plex Mono", monospace;
 
-    // Bright Purple Bullets for Light Mode (easy to see against the whitesmoke backdrop)
-    main li::marker {
+  // LIGHT MODE STRUCTURAL COLORS
+  &[saved-theme="light"] {
+    --light: transparent; 
+    --lightgray: #cbd5e1;  
+    --gray: #334155;       
+    --darkgray: #0f172a;   
+    --dark: #1e1b4b;       
+    --secondary: #5b21b6;  
+    --tertiary: #84a59d;
+    --highlight: rgba(91, 33, 182, 0.06);
+    --textHighlight: #fff23688;
+
+    // NEAR-WHITE PURPLE LIGHT MODE GRADIENT (Faint lavender-white to pure white)
+    background: linear-gradient(135deg, #faf9ff 0%, #fdfcff 60%, #ffffff 100%) !important;
+    background-attachment: fixed !important;
+    
+    // Bright Purple Bullets inside your Markdown (.md) pages
+    main li::marker, .popover li::marker {
+      color: #6d28d9 !important;
+      font-size: 1.1em;
+    }
+
+    // Sidebar Folder Nesting Lines
+    .folder-container div::before {
+      border-left: 1px solid #6d28d9 !important;
+    }
+  }
+  
+  // DARK MODE STRUCTURAL COLORS
+  &[saved-theme="dark"] {
+    --light: transparent;  
+    --lightgray: #202026;
+    --gray: #a0a0b5;
+    --darkgray: #e2e2e9;
+    --dark: #ffffff;
+    --secondary: #9d77ff;  
+    --tertiary: #84a59d;
+    --highlight: rgba(157, 119, 255, 0.15);
+    --textHighlight: #b3aa0288;
+
+    // DARK MODE GRADIENT (Dark Blue, Purple, and Black)
+    background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
+    background-attachment: fixed !important;
+    
+    // Vibrant Purple Bullets inside your Markdown (.md) pages
+    main li::marker, .popover li::marker {
       color: #9d77ff !important;
       font-size: 1.1em;
     }
-  }
 
-  // 2. DARK MODE SETTINGS
-  &[saved-theme="dark"] {
-    background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
-    background-attachment: fixed !important;
-
-    // Dark Purple Bullets for Dark Mode
-    main li::marker {
-      color: #4f2d8c !important;
-      font-size: 1.1em;
+    // Sidebar Folder Nesting Lines
+    .folder-container div::before {
+      border-left: 1px solid #4f2d8c !important;
     }
   }
 }
 
-// 3. FIX INTERIOR PANELS: Makes panels transparent so gradient peeks through
+// ======================================================================
+// 2. TRANSPARENCY LAYOUT ENGINES
+// ======================================================================
+html, 
 body, 
 .page, 
 #quartz-body, 
 .left, 
 .right, 
 .center, 
-main {
+main, 
+aside, 
+div.explorer,
+.graph-outer,
+.desktop-only {
   background: transparent !important;
+  background-color: transparent !important;
 }
 
+// Sidebar folder buttons color fix
+.folder-button {
+  color: var(--darkgray) !important;
+}
+
+// ======================================================================
+// 3. JMESPERAT TYPING ANIMATION ENGINE
+// ======================================================================
+.page-header .page-title a {
+  display: inline-block !important;
+  font-family: 'IBM Plex Mono', monospace !important; 
+  white-space: nowrap !important;                    
+  overflow: hidden !important;                       
+  border-right: 3px solid #9d77ff !important;        
+  margin: 0 auto !important; 
+  letter-spacing: 0px !important; 
+  
+  // Forces the browser to calculate the container width accurately
+  width: 11ch !important; 
+  max-width: 11ch !important;
+  min-width: 0ch !important;
+  
+  // Clean animation mapping without conflicting inline flags
+  animation: 
+    force-typing 3s steps(11, end) infinite alternate, 
+    blink-caret 0.75s step-end infinite !important;
+}
+
+@keyframes force-typing {
+  from { width: 0ch !important; }
+  to { width: 11ch !important; } 
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #9d77ff; }
+}
 
