@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Jose Miguel
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -21,17 +22,17 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "transparent"  # Allows gradient to show
-        lightgray: "#e5e5e5"
-        gray: "#4e4e4e"
-        darkgray: "#2b2b2b"
-        dark: "#2b2b2b"
-        secondary: "#7c4dff"  # Purple hyperlinks for light mode
+        light: "transparent"  # Allows custom background gradient to show
+        lightgray: "#dcdce6"  # Slightly darker borders for contrast
+        gray: "#4a4a5a"       # WCAG Compliant medium gray text
+        darkgray: "#1c1a24"   # WCAG Compliant near-black body/sidebar text (4.5:1+ contrast)
+        dark: "#110f18"       # Sharp dark headers
+        secondary: "#6200ee"  # Deep, readable purple hyperlinks
         tertiary: "#84a59d"
-        highlight: "rgba(124, 77, 255, 0.1)"
+        highlight: "rgba(98, 0, 238, 0.08)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "transparent"  # Allows gradient to show
+        light: "transparent"  # Allows custom background gradient to show
         lightgray: "#202026"
         gray: "#a0a0b5"
         darkgray: "#e2e2e9"
@@ -41,33 +42,62 @@ configuration:
         highlight: "rgba(157, 119, 255, 0.15)"
         textHighlight: "#b3aa0288"
 
-# Custom Styling Injections for Quartz 5 Gradients and Bullets
+# Custom Styling Injections for Backgrounds, Bullets, and Layout Accents
 css: |
   :root {
+    // 1. WCAG OPTIMIZED LIGHT MODE GRADIENT
     &[saved-theme="light"] {
-      background: linear-gradient(135deg, #2d1b4e 0%, #3d2b63 25%, #f5f5f5 70%, #f5f5f5 100%) !important;
+      background: linear-gradient(135deg, #f2ecfc 0%, #f7f5fa 30%, #f5f5f5 70%, #f5f5f5 100%) !important;
       background-attachment: fixed !important;
       
-      main li::marker {
-        color: #9d77ff !important; /* Bright Purple Bullet */
+      // Bright Purple Bullets inside your Markdown pages (.md files)
+      main li::marker, .popover li::marker {
+        color: #7c4dff !important;
         font-size: 1.1em;
+      }
+
+      // Adds a subtle purple tint to the explorer sidebar file lines
+      .folder-container div::before {
+        border-left: 1px solid #7c4dff !important;
       }
     }
     
+    // 2. DARK MODE GRADIENT
     &[saved-theme="dark"] {
       background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
       background-attachment: fixed !important;
       
-      main li::marker {
-        color: #4f2d8c !important; /* Dark Purple Bullet */
+      // Dark Purple Bullets inside your Markdown pages (.md files)
+      main li::marker, .popover li::marker {
+        color: #9d77ff !important;
         font-size: 1.1em;
+      }
+
+      // Adds a purple tint to the explorer sidebar lines in dark mode
+      .folder-container div::before {
+        border-left: 1px solid #4f2d8c !important;
       }
     }
   }
 
+  // 3. TITLE TYPING ANIMATION EFFECT
+  .page-title a {
+    display: inline-block;
+    border-right: 2px solid #9d77ff;
+    white-space: nowrap;
+    animation: blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #9d77ff; }
+  }
+
+  // 4. PANELS TRANSPARENCY FIX
   body, .page, #quartz-body, .left, .right, .center, main {
     background: transparent !important;
   }
+
 
 plugins:
   - source: github:quartz-community/created-modified-date
