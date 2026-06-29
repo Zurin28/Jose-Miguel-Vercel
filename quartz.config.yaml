@@ -21,7 +21,7 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "transparent"  
+        light: "#faf8f8"  
         lightgray: "#cbd5e1"  
         gray: "#334155"       
         darkgray: "#0f172a"   
@@ -31,7 +31,7 @@ configuration:
         highlight: "rgba(91, 33, 182, 0.06)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "transparent"  
+        light: "#161618"  
         lightgray: "#202026"
         gray: "#a0a0b5"
         darkgray: "#e2e2e9"
@@ -40,72 +40,6 @@ configuration:
         tertiary: "#84a59d"
         highlight: "rgba(157, 119, 255, 0.15)"
         textHighlight: "#b3aa0288"
-
-css: |
-  :root {
-    &[saved-theme="light"] {
-      background: linear-gradient(135deg, #faf9ff 0%, #fdfcff 60%, #ffffff 100%) !important;
-      background-attachment: fixed !important;
-      
-      main li::marker, .popover li::marker {
-        color: #6d28d9 !important;
-        font-size: 1.1em;
-      }
-
-      .folder-container div::before {
-        border-left: 1px solid #6d28d9 !important;
-      }
-    }
-    
-    &[saved-theme="dark"] {
-      background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
-      background-attachment: fixed !important;
-      
-      main li::marker, .popover li::marker {
-        color: #9d77ff !important;
-        font-size: 1.1em;
-      }
-
-      .folder-container div::before {
-        border-left: 1px solid #4f2d8c !important;
-      }
-    }
-  }
-
-  .folder-button {
-    color: var(--darkgray) !important;
-  }
-
-  .page-title a {
-    display: inline-block;
-    font-family: 'IBM Plex Mono', monospace; 
-    overflow: hidden;                       
-    border-right: 3px solid #9d77ff;        
-    white-space: nowrap;                    
-    margin: 0 auto; 
-    letter-spacing: 0.05em; 
-    width: 9ch;                             
-    animation: 
-      typing 2.5s steps(9, end) infinite alternate,
-      blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 9ch }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #9d77ff; }
-  }
-
-  body, .page, #quartz-body, .left, .right, .center, main, html, aside, div.explorer {
-    background: transparent !important;
-    background-color: transparent !important;
-  }
-
-
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

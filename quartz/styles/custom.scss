@@ -11,7 +11,7 @@
 
   // LIGHT MODE STRUCTURAL COLORS
   &[saved-theme="light"] {
-    --light: transparent; 
+    --light: #faf8f8; 
     --lightgray: #cbd5e1;  
     --gray: #334155;       
     --darkgray: #0f172a;   
@@ -39,7 +39,7 @@
   
   // DARK MODE STRUCTURAL COLORS
   &[saved-theme="dark"] {
-    --light: transparent;  
+    --light: #161618;  
     --lightgray: #202026;
     --gray: #a0a0b5;
     --darkgray: #e2e2e9;
@@ -51,7 +51,7 @@
 
     // DARK MODE GRADIENT (Dark Blue, Purple, and Black)
     background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
-    background-attachment: fixed !important;s
+    background-attachment: fixed !important;
     
     // Vibrant Purple Bullets inside your Markdown (.md) pages
     main li::marker, .popover li::marker {
@@ -73,8 +73,6 @@ html,
 body, 
 .page, 
 #quartz-body, 
-.left, 
-.right, 
 .center, 
 main, 
 aside, 
@@ -83,6 +81,44 @@ div.explorer,
 .desktop-only {
   background: transparent !important;
   background-color: transparent !important;
+}
+
+.page > #quartz-body .sidebar,
+.page > #quartz-body .sidebar.left,
+.page > #quartz-body .sidebar.right,
+.page > #quartz-body .sidebar.left > *,
+.page > #quartz-body .sidebar.right > * {
+  background: rgba(255, 255, 255, 0.96) !important;
+  background-color: rgba(255, 255, 255, 0.96) !important;
+}
+
+:root[saved-theme="dark"] .page > #quartz-body .sidebar,
+:root[saved-theme="dark"] .page > #quartz-body .sidebar.left,
+:root[saved-theme="dark"] .page > #quartz-body .sidebar.right,
+:root[saved-theme="dark"] .page > #quartz-body .sidebar.left > *,
+:root[saved-theme="dark"] .page > #quartz-body .sidebar.right > * {
+  background: rgba(12, 14, 29, 0.96) !important;
+  background-color: rgba(12, 14, 29, 0.96) !important;
+}
+
+@media (max-width: 800px) {
+  .page > #quartz-body .sidebar,
+  .page > #quartz-body .sidebar.left,
+  .page > #quartz-body .sidebar.right,
+  .page > #quartz-body .sidebar.left > *,
+  .page > #quartz-body .sidebar.right > * {
+    background: rgba(255, 255, 255, 0.98) !important;
+    background-color: rgba(255, 255, 255, 0.98) !important;
+  }
+
+  :root[saved-theme="dark"] .page > #quartz-body .sidebar,
+  :root[saved-theme="dark"] .page > #quartz-body .sidebar.left,
+  :root[saved-theme="dark"] .page > #quartz-body .sidebar.right,
+  :root[saved-theme="dark"] .page > #quartz-body .sidebar.left > *,
+  :root[saved-theme="dark"] .page > #quartz-body .sidebar.right > * {
+    background: rgba(12, 14, 29, 0.98) !important;
+    background-color: rgba(12, 14, 29, 0.98) !important;
+  }
 }
 
 // Sidebar folder buttons color fix
