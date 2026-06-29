@@ -21,70 +21,61 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "transparent"  # Allows high-contrast custom gradient to display
-        lightgray: "#cbd5e1"  # Soft slate border color for clean lines
-        gray: "#334155"       # High-contrast charcoal text for readability
-        darkgray: "#0f172a"   # Crisp slate-black text (Exceeds WCAG 4.5:1 ratio)
-        dark: "#1e1b4b"       # Deep dark indigo headers
-        secondary: "#5b21b6"  # Premium dark purple for clickable hyperlinks
+        light: "transparent"  
+        lightgray: "#cbd5e1"  
+        gray: "#334155"       
+        darkgray: "#0f172a"   
+        dark: "#1e1b4b"       
+        secondary: "#5b21b6"  
         tertiary: "#84a59d"
         highlight: "rgba(91, 33, 182, 0.06)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "transparent"  # Allows dark custom gradient to display
+        light: "transparent"  
         lightgray: "#202026"
         gray: "#a0a0b5"
         darkgray: "#e2e2e9"
         dark: "#ffffff"
-        secondary: "#9d77ff"  # Vibrant neon purple hyperlinks
+        secondary: "#9d77ff"  
         tertiary: "#84a59d"
         highlight: "rgba(157, 119, 255, 0.15)"
         textHighlight: "#b3aa0288"
 
-# High-Utility CSS Injections for Layout Accents, White-Purple Gradients & Bullets
 css: |
   :root {
-    // 1. NEAR-WHITE PURPLE LIGHT MODE GRADIENT (Faint lavender-white fading to pure white)
     &[saved-theme="light"] {
-      background: linear-gradient(135deg, #faf8ff 0%, #fcfbff 50%, #ffffff 100%) !important;
+      background: linear-gradient(135deg, #faf9ff 0%, #fdfcff 60%, #ffffff 100%) !important;
       background-attachment: fixed !important;
       
-      // Strict markdown document list bullets (Bright Purple)
       main li::marker, .popover li::marker {
         color: #6d28d9 !important;
         font-size: 1.1em;
       }
 
-      // Sidebar folder nesting guide lines (Purple)
       .folder-container div::before {
         border-left: 1px solid #6d28d9 !important;
       }
     }
     
-    // 2. DARK MODE GRADIENT (Dark Blue, Purple, and Black)
     &[saved-theme="dark"] {
       background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
       background-attachment: fixed !important;
       
-      // Strict markdown document list bullets (Vibrant Purple)
       main li::marker, .popover li::marker {
         color: #9d77ff !important;
         font-size: 1.1em;
       }
 
-      // Sidebar folder nesting guide lines (Muted Purple)
       .folder-container div::before {
         border-left: 1px solid #4f2d8c !important;
       }
     }
   }
 
-  // 3. EXPLORER SIDEBAR FOLDER ICON FIX (Ensures folder text color contrasts with the background)
   .folder-button {
     color: var(--darkgray) !important;
   }
 
-  // 4. COMPLETE TYPING ANIMATION ENGINE
   .page-title a {
     display: inline-block;
     font-family: 'IBM Plex Mono', monospace; 
@@ -109,9 +100,9 @@ css: |
     50% { border-color: #9d77ff; }
   }
 
-  // 5. INTERIOR CONTAINER FIXES
-  body, .page, #quartz-body, .left, .right, .center, main {
+  body, .page, #quartz-body, .left, .right, .center, main, html, aside, div.explorer {
     background: transparent !important;
+    background-color: transparent !important;
   }
 
 
