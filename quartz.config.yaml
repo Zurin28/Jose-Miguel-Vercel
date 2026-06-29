@@ -42,12 +42,12 @@ configuration:
         highlight: "rgba(157, 119, 255, 0.15)"
         textHighlight: "#b3aa0288"
 
-# High-Utility CSS Injections for Layout Accents, Inverted Gradients & Bullets
+# High-Utility CSS Injections for Layout Accents, White-Purple Gradients & Bullets
 css: |
   :root {
-    // 1. INVERTED LIGHT MODE GRADIENT (Whitesmoke on top-left sidebar, fading to dark purple)
+    // 1. WHITE-PURPLE LIGHT MODE GRADIENT (Bright white-purple fading into whitesmoke/white)
     &[saved-theme="light"] {
-      background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 25%, #e2e8f0 60%, #311042 100%) !important;
+      background: linear-gradient(135deg, #f3effa 0%, #f9f7fc 40%, #ffffff 100%) !important;
       background-attachment: fixed !important;
       
       // Strict markdown document list bullets (Bright Purple)
