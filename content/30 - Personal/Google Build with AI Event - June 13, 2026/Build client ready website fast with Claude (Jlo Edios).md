@@ -8,7 +8,7 @@
   - **Claude Co Work**
     - Can make files, remove, and change files
     - It is all in the **cloud** so you don't need to upload files again
-    - You can just give a **handoff file** .md files/
+    - You can just give a **handoff file** .md files
     - **Context Engineering**
     - **Slop**
   - **Claude Design**
