@@ -51,7 +51,7 @@
 
     // DARK MODE GRADIENT (Dark Blue, Purple, and Black)
     background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
-    background-attachment: fixed !important;
+    background-attachment: fixed !important;s
     
     // Vibrant Purple Bullets inside your Markdown (.md) pages
     main li::marker, .popover li::marker {
@@ -93,8 +93,9 @@ div.explorer,
 // ======================================================================
 // 3. JMESPERAT TYPING ANIMATION ENGINE
 // ======================================================================
-.page-header .page-title a {
+ .page-title a {
   display: inline-block !important;
+  position: relative !important;
   font-family: 'IBM Plex Mono', monospace !important; 
   white-space: nowrap !important;                    
   overflow: hidden !important;                       
@@ -113,6 +114,19 @@ div.explorer,
     blink-caret 0.75s step-end infinite !important;
 }
 
+.page-title a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -75%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent 0%, rgba(255,255,255,0.62) 50%, transparent 100%);
+  transform: skewX(-25deg);
+  animation: shine-sweep 3s ease-in-out infinite;
+  pointer-events: none;
+}
+
 @keyframes force-typing {
   from { width: 0ch !important; }
   to { width: 11ch !important; } 
@@ -121,5 +135,10 @@ div.explorer,
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: #9d77ff; }
+}
+
+@keyframes shine-sweep {
+  0% { left: -75%; }
+  100% { left: 125%; }
 }
 
