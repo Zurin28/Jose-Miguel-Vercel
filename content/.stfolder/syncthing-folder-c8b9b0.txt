@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: m6pts-zgbme
+created: 2026-06-12T00:22:08+08:00
