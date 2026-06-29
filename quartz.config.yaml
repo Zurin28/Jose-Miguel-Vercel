@@ -12,7 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -45,9 +44,9 @@ configuration:
 # High-Utility CSS Injections for Layout Accents, White-Purple Gradients & Bullets
 css: |
   :root {
-    // 1. WHITE-PURPLE LIGHT MODE GRADIENT (Bright white-purple fading into whitesmoke/white)
+    // 1. NEAR-WHITE PURPLE LIGHT MODE GRADIENT (Faint lavender-white fading to pure white)
     &[saved-theme="light"] {
-      background: linear-gradient(135deg, #f3effa 0%, #f9f7fc 40%, #ffffff 100%) !important;
+      background: linear-gradient(135deg, #faf8ff 0%, #fcfbff 50%, #ffffff 100%) !important;
       background-attachment: fixed !important;
       
       // Strict markdown document list bullets (Bright Purple)
