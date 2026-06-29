@@ -44,7 +44,7 @@ configuration:
 css: |
   :root {
     &[saved-theme="light"] {
-      background: linear-gradient(135deg, #faf9ff 0%, #fdfcff 60%, #ffffff 100%) !important;
+      background: #fdfcff !important;
       background-attachment: fixed !important;
       
       main li::marker, .popover li::marker {
