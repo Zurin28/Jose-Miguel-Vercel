@@ -83,11 +83,27 @@ css: |
   // 3. TITLE TYPING ANIMATION EFFECT
   .page-title a {
     display: inline-block;
-    border-right: 2px solid #9d77ff;
-    white-space: nowrap;
-    animation: blink-caret 0.75s step-end infinite;
+    font-family: 'IBM Plex Mono', monospace; /* Monospace font makes each letter take exact same width */
+    overflow: hidden;                       /* Hides the text that hasn't been typed yet */
+    border-right: 3px solid #9d77ff;        /* The blinking cursor line */
+    white-space: nowrap;                    /* Keeps the title on a single flat line */
+    margin: 0 auto; 
+    letter-spacing: 0.05em; 
+    
+    /* Exact step count matching characters in "JmEsperat" (9 letters) */
+    width: 9ch;                             
+    animation: 
+      typing 2.5s steps(9, end) infinite alternate,
+      blink-caret 0.75s step-end infinite;
   }
 
+  // Keyframes for the typewriter reveal effect
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 9ch }
+  }
+
+  // Keyframes for the blinking purple line cursor
   @keyframes blink-caret {
     from, to { border-color: transparent }
     50% { border-color: #9d77ff; }
