@@ -21,25 +21,54 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "transparent"  # Allows gradient to show
         lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
+        gray: "#4e4e4e"
+        darkgray: "#2b2b2b"
         dark: "#2b2b2b"
-        secondary: "#284b63"
+        secondary: "#7c4dff"  # Purple hyperlinks for light mode
         tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        highlight: "rgba(124, 77, 255, 0.1)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
+        light: "transparent"  # Allows gradient to show
+        lightgray: "#202026"
+        gray: "#a0a0b5"
+        darkgray: "#e2e2e9"
+        dark: "#ffffff"
+        secondary: "#9d77ff"  # Neon purple hyperlinks for dark mode
         tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        highlight: "rgba(157, 119, 255, 0.15)"
         textHighlight: "#b3aa0288"
+
+# Custom Styling Injections for Quartz 5 Gradients and Bullets
+css: |
+  :root {
+    &[saved-theme="light"] {
+      background: linear-gradient(135deg, #2d1b4e 0%, #3d2b63 25%, #f5f5f5 70%, #f5f5f5 100%) !important;
+      background-attachment: fixed !important;
+      
+      main li::marker {
+        color: #9d77ff !important; /* Bright Purple Bullet */
+        font-size: 1.1em;
+      }
+    }
+    
+    &[saved-theme="dark"] {
+      background: linear-gradient(135deg, #0a0a0c 0%, #120e25 40%, #101833 80%, #0d0d11 100%) !important;
+      background-attachment: fixed !important;
+      
+      main li::marker {
+        color: #4f2d8c !important; /* Dark Purple Bullet */
+        font-size: 1.1em;
+      }
+    }
+  }
+
+  body, .page, #quartz-body, .left, .right, .center, main {
+    background: transparent !important;
+  }
+
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
