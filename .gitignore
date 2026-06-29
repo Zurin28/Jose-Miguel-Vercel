@@ -13,3 +13,5 @@ quartz/cli/tui/dist/
 .quartz/
 .vercel
 .env*
+deploy.bat
+
