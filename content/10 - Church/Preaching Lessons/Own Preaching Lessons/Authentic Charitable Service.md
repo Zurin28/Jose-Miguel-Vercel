@@ -1,14 +1,14 @@
-# 1 Corinthians 13:1-3 (KJV)
+## 📖 1 Corinthians 13:1-3 (KJV)
 
 ## ❓ Introduction
 
 - What is **authenticity** or being **authentic**? Doing things truthfully without care for others, being true to one self..
     - Being True to God, to yourself, and to others..
 - What is **Charitable**?
-    - From the root word Charity, it means we do things out of **love and pure intention**.
+    - From the root word Charity, it means we do things out of **love and pure intention**. (Agape)
 - What is **service**? The act of doing something for someone..
     - In terms of God, it is worship and being used for the glory of God.
-- **[[Authentic Charitable Service]]** - means that we do something for God out of our love for Him, not to be seen and praised by people, but to please and make God happy.
+- **Authentic Charitable Service** - means that we do something for God out of our love for Him, not to be seen and praised by people nor to please people, but to please and make God happy.
 
 ## ⚠️ The Person Who Says "Yes" To Everything And Burns Out
 
@@ -30,26 +30,37 @@ This is a tricky path:
 - Tells in the last verse of chapter 12, there is a **more excellent way**
 - Proceeds to 13, and without **Love** (Greek word "**Agape**" — God's unconditional love, it is worth nothing even if you die.)
 
-## 🎯 How can we make sure that we serve God with Love, and not for people pleasing or performance?
+## 🎯 How can we make sure that we serve God with truthful Love and not Performance?
 
-### ✅ 1 — Accept that you are not perfect
+### ✅ 1 — Accept that we are not perfect
 
-- How did we get saved?
+- How did we got saved?
 - The same is for working and serving God
-- In our **weakness** His **strength** is made perfect
-- Be ye perfect as your Father is perfect in heaven (Verse)
+- Moses’ Calling and Excuses at the Burning Bush (ILLUSTRATION)
+- 2Co 12:9 (KJV)  
+    And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
 ### ✅ 2 — Acknowledge and Ask God for Help
 
-- It is God that will and work in you
-- He that begins a work in you will finish it unto due time
+- Php 2:13 (KJV) For it is God which worketh in you both to will and to do of his good pleasure.
+- Mat 5:48 (KJV) Be ye therefore perfect, even as your Father which is in heaven is perfect.
+- **tel'-i-os** - From G5056; complete (in various applications of labor, growth, mental and moral character, etc.); neuter (as noun, with G3588) completeness: - of full age, man, perfect.
+- Peter Walking on Water, Drowns, and asks the Lord for Help, LORD SAVE ME (ILLUSTRATION)
+- Mat 14:30 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
+- Php 2:14 (KJV) Do all things without murmurings and disputings: (EXTRA)
 
 ### ✅ 3 — Aim to do things for the pleasing and Glory of God
 
-- Whatsoever ye do all things to the **Glory of God**
+- 1Co 10:31 (KJV) Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
+- The Pharisee put on a proud performance to glorify himself, but the humble tax collector sought only God’s mercy to glorify the Lord. (Luke 18:10…) (ILLUSTRATION)
 - How you do actions to show you love someone and make them happy
-- Greatest of this is **Charity**
 
 ## 📝 Conclusion
 
 Summary of all points
+
+- Recap of Points
+- Php 1:6 (KJV) Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+- 1Co 13:13 (KJV) And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+- We should not treat our service to God as some chore, or task to be done.. Instead we examine ourselves, if we are true to Him, and serve Him purely.
+- God doesn't look in the outside appearance, but instead God looks, tries, and appreciates things done with heart.
