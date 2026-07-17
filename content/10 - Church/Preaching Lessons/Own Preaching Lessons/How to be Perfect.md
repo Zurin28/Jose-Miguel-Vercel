@@ -40,19 +40,19 @@
 
 ### ❓ 1 Look at ourself and God
 - Kamusta kayo ng Panginoon?
-- How often do you talk to Him? (**Prayer**)
-- How often do you hear Him? (**Reading Bible**)
-- How often do you listen to Him? (**Obeying**)
-- How often do you rely on Him?
+- How often do we talk to Him? (**Prayer**)
+- How often do we hear Him? (**Reading Bible**)
+- How often do we listen to Him? (**Obeying**)
+- How often do we rely on Him?
 
 ### 💡 2 Look at the state of our relationship with God.
 - Good terms? Bad Terms?
 - Am i being tested (**trials**)?
 - Am i being Chastened?
 - Am i being non-chalant?
-- God sees every moment. How do you think God feels about how we treat Him ourselves?
-- If good, Amen, we **press on**.. If bad, God may be teaching you something.
-- What should you do? What should you change?
+- God sees every moment. How do we think God feels about how we treat Him ourselves?
+- If good, Amen, we **press on**.. If bad, God may be teaching us something.
+- What should we do? What should we change?
 - Ask God for **wisdom**
 
 ### 📖 3 Look at God’s word for His instruction.
@@ -81,7 +81,7 @@
     - Heb_12:2  Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
 - Change the wrong things with Godly things from His word
     
-- **Repent** (Metanoia), But before know what you need to Change. **Examine Yourself**.
+- **Repent** (Metanoia), But before know what we need to Change. **Examine Ourselves**.
     
 ## 📝 Conclusion
 - Being perfect is God’s sanctification. To be perfect, we should continually examine ourself, listen to God’s word, and change according to God’s instruction.
