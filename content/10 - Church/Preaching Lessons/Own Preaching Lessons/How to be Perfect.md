@@ -25,6 +25,7 @@
             - Try to be Perfect → hit by reality(sin, make a mistake) → stress because not perfect → blame self → repeat = Burnout/discouraged
             - We shift our focus from God to ourself.
             - We forget: Php 2:13  For it is God which worketh in you both to will and to do of his good pleasure.
+            - We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best. 
 - So what does it mean to be Perfect in this verse?
     - Greek word (**Teleios**):
         
@@ -33,7 +34,6 @@
         From G5056; complete (in various applications of labor, growth, mental and moral character, etc.); neuter (as noun, with G3588) completeness: - of full age, man, perfect.
         
     - God continually **sanctifying** us, until our Character is like Him.
-        
     - Connecting to our goal to be **Christlike**.
         
 ## ✅ How do we become Perfect like our God?
@@ -85,4 +85,5 @@
     
 ## 📝 Conclusion
 - Being perfect is God’s sanctification. To be perfect, we should continually examine ourself, listen to God’s word, and change according to God’s instruction.
+- We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best. 
 - So that we can be like Him, and glorify Him more in our lives.
