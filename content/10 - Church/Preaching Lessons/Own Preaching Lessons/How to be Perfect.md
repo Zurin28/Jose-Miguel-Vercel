@@ -11,6 +11,7 @@
     - 2 Perfect as in Making no mistake.
         - Sakit: **Perfectionism** (Sakit sa Ulo)
         - Perfectionism - personal standard that requires flawlessness and nothing less
+        - Sometimes good, but most of the time.. HINDI NAKAKATULONG, NAKAKASIRA PA
         - Illustration
             - Your worth is defined by how well you do, no achievement, no love and acceptance
             - We try to always present BEST Self, like Social Media
@@ -18,7 +19,6 @@
             - SON AND FATHER GRADE ILLUSTRATION
             - The son just wants to hear, he is enough and appreciated
             - The same is with us, and God says we are enough as we are, and we just need to press on and continually obey Him. Not requiring to be perfect and be the best everytime.
-        - Sometimes good, but most of the time.. HINDI NAKAKATULONG, NAKAKASIRA PA
         - Reality: There is nothing perfect. We will always make a mistake.
         - Here is what happens: Try to be Perfect → hit by reality → stress because not perfect → blame self → repeat = Burnout/discouraged
         - Some Christians burn out/ discouraged?
@@ -36,16 +36,16 @@
     - God continually **sanctifying** us, until our Character is like Him.
     - Connecting to our goal to be **Christlike**.
         
-## ✅ How do we become Perfect like our God?
+## ✅What do we need to look at, to be perfect like God.
 
-### ❓ 1 Look at yourself and God
+### ❓ 1 Look at ourself and God
 - Kamusta kayo ng Panginoon?
 - How often do you talk to Him? (**Prayer**)
 - How often do you hear Him? (**Reading Bible**)
 - How often do you listen to Him? (**Obeying**)
 - How often do you rely on Him?
 
-### 💡 2 Look at the state of your relationship with God.
+### 💡 2 Look at the state of our relationship with God.
 - Good terms? Bad Terms?
 - Am i being tested (**trials**)?
 - Am i being Chastened?
@@ -85,5 +85,5 @@
     
 ## 📝 Conclusion
 - Being perfect is God’s sanctification. To be perfect, we should continually examine ourself, listen to God’s word, and change according to God’s instruction.
-- We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best. 
+- We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best, and God will do the Rest.
 - So that we can be like Him, and glorify Him more in our lives.
