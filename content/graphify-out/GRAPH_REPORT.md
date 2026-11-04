@@ -1,17 +1,17 @@
 # Graph Report - Second Brain  (2026-11-04)
 
 ## Corpus Check
-- 43 files · ~27,779 words
+- 43 files · ~27,799 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: (none) 2, .base 1)
 
 ## Summary
-- 394 nodes · 514 edges · 39 communities (37 shown, 2 thin omitted)
+- 394 nodes · 515 edges · 39 communities (37 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `0c3d438c`
+- Built from commit: `ff6467dc`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 

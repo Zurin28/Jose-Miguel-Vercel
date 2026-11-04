@@ -168,9 +168,9 @@
     "semantic_hash": ""
   },
   "40 - Projects/Projects & Software Development (Map of Content).md": {
-    "mtime": 1793773725.4847004,
-    "seen": 1793773856.5249836,
-    "ast_hash": "f9b97e8cb3a71a282e329017d2c83ff1",
+    "mtime": 1793774341.8328369,
+    "seen": 1793774556.638981,
+    "ast_hash": "d6f1571f6db30178e93a658565c7a775",
     "semantic_hash": ""
   },
   "40 - Projects/E-Commerce & Chatbot Automations/Botcake Chatbot Delivery Flow - LBC COD Architecture.md": {
@@ -245,12 +245,6 @@
     "ast_hash": "d7aef1e08c533f4e635986d1ee3dcaab",
     "semantic_hash": ""
   },
-  "30 - Personal/AI Prompts/OpenCode V2 Setup & Token Discipline.md": {
-    "mtime": 1793773815.2508144,
-    "seen": 1793773856.5248854,
-    "ast_hash": "a8cf2df2bb1b15fc4b2859713a5d1744",
-    "semantic_hash": ""
-  },
   "40 - Projects/\ud83e\udd16 Antigravity Agentic Environment & Skill Architecture.md": {
     "mtime": 1793773709.57125,
     "seen": 1793773856.5250106,
@@ -261,6 +255,12 @@
     "mtime": 1793773908.2334075,
     "seen": 1793774122.9653642,
     "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "40 - Projects/OpenCode V2 Setup & Token Discipline.md": {
+    "mtime": 1793773815.2508144,
+    "seen": 1793774556.6389623,
+    "ast_hash": "a8cf2df2bb1b15fc4b2859713a5d1744",
     "semantic_hash": ""
   }
 }
