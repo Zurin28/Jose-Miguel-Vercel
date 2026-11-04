@@ -1,17 +1,17 @@
 # Graph Report - Second Brain  (2026-11-04)
 
 ## Corpus Check
-- 42 files · ~27,779 words
+- 43 files · ~27,779 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: (none) 2, .base 1)
 
 ## Summary
-- 393 nodes · 513 edges · 39 communities (37 shown, 2 thin omitted)
+- 394 nodes · 514 edges · 39 communities (37 shown, 2 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `74a3d457`
+- Built from commit: `0c3d438c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -213,7 +213,7 @@ Cohesion: 0.15
 Nodes (13): Business Rule Enforcement Triggers, Core SQL Views, 📐 EER Modeling & Relational Schema (15 Tables), Entity Types & Subtype Specialization, 📌 Executive Summary & Architectural Philosophy, 🧪 Formal Database Normalization (UNF to BCNF / 4NF), 🗄️ PMS Inventory System — Database Design & Implementation Plan, 🔗 Related Documentation & Links (+5 more)
 
 ### Community 37 - "🤖 Antigravity Agentic Environment & Skill Architecture"
-Cohesion: 0.15
+Cohesion: 0.14
 Nodes (12): 1. Executive Summary & Philosophy, 2. Multi-Tiered Memory & Storage Architecture, 3.1 Token Preservation & Optimization Suite, 3.2 Engineering, Testing & Quality Assurance, 3.3 Knowledge Management & Integration, 3.4 UI/UX & Design Systems, 3. Modular Skill Matrix (Installed Capabilities), 4.1 Knowledge Base Synchronization (+4 more)
 
 ### Community 38 - "🧠 OpenCode V2 Setup & Token Discipline"
@@ -227,7 +227,7 @@ Nodes (9): 1. What OpenCode Is, 2. Configuration Layout, 3. Model Economy (as co
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `🎨 World Premier — Design & Style Reference Guide` connect `🎨 World Premier — Design & Style Reference Guide` to `8. 🚫 Anti-AI Gloss Rules — "Do NOT Make It Look Like Shiny AI"`, `Projects & Software Development (Map of Content).md`?**
-  _High betweenness centrality (0.174) - this node is a cross-community bridge._
+  _High betweenness centrality (0.173) - this node is a cross-community bridge._
 - **Should `🔍 Main types of learning` be split into smaller, more focused modules?**
   _Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected._
 - **Why does `🏢 World Premier (WPP7 Trading) — Company Overview` connect `🏢 World Premier (WPP7 Trading) — Company Overview` to `Projects & Software Development (Map of Content).md`?**

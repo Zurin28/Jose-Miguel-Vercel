@@ -27,8 +27,9 @@ Central index for active software engineering, system architecture, offline-firs
   * [[PMS Inventory System — Database Design & Implementation Plan]] — Advanced Database Systems (ADS) specification, MySQL 8.0 schema (15 tables), UNF-to-4NF normalization, SQL views/triggers, and zero-framework PHP API architecture.
 
 ### 🤖 Automation & E-Commerce
-* **Antigravity CLI Agentic Architecture & Skills**
+* **Agentic Workspaces & Coding Agent Systems**
   * [[🤖 Antigravity Agentic Environment & Skill Architecture]] — Global directives, multi-tiered memory architecture, token-saving skills, and execution protocols.
+  * [[OpenCode V2 Setup & Token Discipline]] — OpenCode V2 client-server configuration, free-tier model economy, token discipline, and skill arsenal.
 * **Botcake Chatbot Delivery Automation**
   * [[Botcake Chatbot Delivery Flow - LBC COD Architecture]] — Webhook payload handling, automated Cash on Delivery (COD) order routing, and customer lifecycle delivery messaging.
 
