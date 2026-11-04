@@ -1,4 +1,16 @@
-# 📖 Genesis 39:10
+---
+title: WHEN FIGHTING TEMPTATION
+tags:
+  - church
+  - preaching
+  - cbm-series
+  - spiritual-warfare
+  - victory-over-sin
+---
+
+# 📖 WHEN FIGHTING TEMPTATION
+
+## 📖 Text: Genesis 39:10
 
 - The story of Joseph on how he was tempted by Potiphar's Wife.
 - Romans 8: Predestination (God has a plan for everyone.)
@@ -6,7 +18,7 @@
 
 ## ⚠️ 4 THINGS TO FIGHT TEMPTATION
 
-### 🎯 1 The Preparation (Be prepared for the Temptation)s
+### 🎯 1 The Preparation (Be prepared for the Temptation)
 
 - We need to be prepared for the temptation.
 - We already know **Satan** is going to tempt us, to be ready.
@@ -43,3 +55,12 @@
 - 1 It reveals our **true nature and Identity**.
 - 2 Being Faithful in temptation leads to **blessing**.
 - God works everything bad for good.
+
+---
+
+## 🔗 Connections & Related Notes
+* **Church Hub:** [[10 - Church/# 📖 Church & Ministry (Map of Content)|Church & Ministry]]
+* **Scriptural Weaponry:** [[Knowing Jesus Devotional Plan]] — Day 15 (Matthew 4: Jesus fighting temptation with Scripture).
+* **Guarding the Heart:** [[TO LOVE GOD IS TO HATE EVIL]] — Avoiding worldly compromise and the lust of the flesh.
+* **Character in Crisis:** [[How to be Perfect]] — God refining and maturing our character through trials.
+* **Pure Service:** [[Authentic Charitable Service]] — Remaining faithful when nobody is looking.

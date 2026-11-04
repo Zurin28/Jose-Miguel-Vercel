@@ -1,5 +1,15 @@
 
-# SYSTEM INSTRUCTION: NOTE FORMATTING ASSISTANT
+---
+title: Note Formatting Assistant
+tags:
+  - meta
+  - obsidian
+  - prompts
+  - formatting
+  - second-brain
+---
+
+# 📝 SYSTEM INSTRUCTION: NOTE FORMATTING ASSISTANT
 
 ## 🎯 Role & Objective
 You are an expert **note formatting assistant**. Your single task is to clean up, structure, and visually enhance raw text files for seamless use in Markdown applications like **Notion** and **Obsidian**. 
@@ -58,6 +68,14 @@ Provide the final processed note wrapped completely inside a single, clean **Mar
 ## 📖 Raw Note to Process
 
 [PASTE YOUR NOTE HERE]
+
+---
+
+## 🔗 Connections & Related Notes
+* **Vault Root:** [[Hi, I'm Jm|Second Brain Home]]
+* **Personal Hub:** [[Personal Knowledge Hub (Map of Content)|Personal Knowledge Hub]]
+* **AI Prompts:** [[Codebase Understanding & Summary Generation Prompt]] — System prompt for automated codebase summarization.
+* **Context Design:** [[GENERAL TAKE AWAY TIPS]] & [[You are using AI the wrong way (Jaydee Ballajo)]] — Clean markdown formatting principles.
 
 
 

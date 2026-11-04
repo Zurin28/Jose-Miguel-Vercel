@@ -1,4 +1,17 @@
-## 📖 1 Corinthians 13:1-3 (KJV)
+---
+title: Authentic Charitable Service
+tags:
+  - church
+  - preaching
+  - ministry
+  - agape
+  - service
+  - burnout
+---
+
+# 📖 Authentic Charitable Service
+
+## 📖 Text: 1 Corinthians 13:1-3 (KJV)
 
 ## ❓ Introduction
 
@@ -43,7 +56,7 @@ This is a tricky path:
 ### ✅ 2 — Acknowledge and Ask God for Help
 
 - Php 2:13 (KJV) For it is God which worketh in you both to will and to do of his good pleasure.
-- Mat 5:48 (KJV) Be ye therefore perfect, even as your Father which is in heaven is perfect.
+- Mat 5:48 (KJV) Be ye therefore perfect, even as your Father which is in heaven is perfect. (See detailed breakdown in [[How to be Perfect]])
 - **tel'-i-os** - From G5056; complete (in various applications of labor, growth, mental and moral character, etc.); neuter (as noun, with G3588) completeness: - of full age, man, perfect.
 - Peter Walking on Water, Drowns, and asks the Lord for Help, LORD SAVE ME (ILLUSTRATION)
 - Mat 14:30 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
@@ -64,3 +77,13 @@ Summary of all points
 - 1Co 13:13 (KJV) And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 - We should not treat our service to God as some chore, or task to be done.. Instead we examine ourselves, if we are true to Him, and serve Him purely.
 - God doesn't look in the outside appearance, but instead God looks, tries, and appreciates things done with heart.
+
+---
+
+## 🔗 Connections & Related Notes
+* **Church Hub:** [[10 - Church/# 📖 Church & Ministry (Map of Content)|Church & Ministry]]
+* **Companion Message:** [[How to be Perfect]] — Complementary study on Matthew 5:48 (*Teleios*), overcoming burnout and human performance.
+* **Rejecting Self-Glory:** [[TO LOVE GOD IS TO HATE EVIL]] — Fleeing pride and seeking God's glory over worldly acknowledgment.
+* **Gaining Value in Christ:** [[THE OPPORTUNITY TO HAVE JESUS]] — Remembering our worth comes from Christ, not our output.
+* **Temptation Insight:** [[WHEN FIGHTING TEMPTATION]] — Relates to spiritual warfare and reliance on Scripture.
+* **Christ's Example of Humility:** [[Knowing Jesus Devotional Plan]] — Day 7 (John 13 foot washing) and Day 19 (Mark 10 servant leadership).

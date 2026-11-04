@@ -1,4 +1,15 @@
-# 📖 Mat 5:48  Be ye therefore perfect, even as your Father which is in heaven is perfect.
+---
+title: How to be Perfect
+tags:
+  - church
+  - preaching
+  - sanctification
+  - christlikeness
+  - grace
+  - maturity
+---
+
+# 📖 Mat 5:48 — Be ye therefore perfect, even as your Father which is in heaven is perfect.
 
 ## 🔍 Introduction
 - Is there a Perfect Person?
@@ -25,7 +36,7 @@
             - Try to be Perfect → hit by reality(sin, make a mistake) → stress because not perfect → blame self → repeat = Burnout/discouraged
             - We shift our focus from God to ourself.
             - We forget: Php 2:13  For it is God which worketh in you both to will and to do of his good pleasure.
-            - We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best. 
+            - We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best. (See [[Authentic Charitable Service]])
 - So what does it mean to be Perfect in this verse?
     - Greek word (**Teleios**):
         
@@ -34,7 +45,7 @@
         From G5056; complete (in various applications of labor, growth, mental and moral character, etc.); neuter (as noun, with G3588) completeness: - of full age, man, perfect.
         
     - God continually **sanctifying** us, until our Character is like Him.
-    - Connecting to our goal to be **Christlike**.
+    - Connecting to our goal to be **Christlike**. (See [[Knowing Jesus Devotional Plan]])
         
 ## ✅What do we need to look at, to be perfect like God.
 
@@ -87,3 +98,13 @@
 - Being perfect is God’s sanctification. To be perfect, we should continually examine ourself, listen to God’s word, and change according to God’s instruction.
 - We don't need to be perfect or become the best. We just need to obey God, Repent and Change, and do our Best, and God will do the Rest.
 - So that we can be like Him, and glorify Him more in our lives.
+
+---
+
+## 🔗 Connections & Related Notes
+* **Church Hub:** [[10 - Church/# 📖 Church & Ministry (Map of Content)|Church & Ministry]]
+* **Companion Message:** [[Authentic Charitable Service]] — Ministry service rooted in agape vs. pressure, human performance, and burnout.
+* **Transforming by Beholding:** [[Knowing Jesus Devotional Plan]] — 28-day journey into Christlikeness and renewing the mind.
+* **Victory in Trials:** [[WHEN FIGHTING TEMPTATION]] — Leaning on God's strength when facing temptation and weakness.
+* **Hating Sin & Pride:** [[TO LOVE GOD IS TO HATE EVIL]] — Forsaking self-righteousness for authentic humility.
+* **Gaining Imputed Value:** [[THE OPPORTUNITY TO HAVE JESUS]] — Finding true value through Christ's finished work.

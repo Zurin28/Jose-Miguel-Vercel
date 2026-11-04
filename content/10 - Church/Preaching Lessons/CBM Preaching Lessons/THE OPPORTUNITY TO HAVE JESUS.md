@@ -1,4 +1,16 @@
-## Text: John 2:3-10 (KJV)##
+---
+title: THE OPPORTUNITY TO HAVE JESUS
+tags:
+  - church
+  - preaching
+  - cbm-series
+  - provision
+  - salvation
+---
+
+# 📖 THE OPPORTUNITY TO HAVE JESUS
+
+## 📖 Text: John 2:3-10 (KJV)
 
 - **Water** is a simple substance, yet God (Jesus) turned it into **wine**. (Complicated Formulas)
 - Wine back then is not strong drink, but a **pure juice**.
@@ -30,3 +42,12 @@
 - We don't need people's favor, but **God's favor**.
 - We have the favor from God, if we are **faithful**.
 - God will give His favor to His **faithful servant**.
+
+---
+
+## 🔗 Connections & Related Notes
+* **Church Hub:** [[10 - Church/# 📖 Church & Ministry (Map of Content)|Church & Ministry]]
+* **Devotional Life:** [[Knowing Jesus Devotional Plan]] — Day 1 (John 1) on the Word made flesh.
+* **Serving Authentically:** [[Authentic Charitable Service]] — Seeking God's approval over human favor.
+* **Overcoming Flesh & World:** [[TO LOVE GOD IS TO HATE EVIL]] — Treasuring God above worldly riches.
+* **Grace in Weakness:** [[How to be Perfect]] — Trusting God to transform our imperfect vessels.

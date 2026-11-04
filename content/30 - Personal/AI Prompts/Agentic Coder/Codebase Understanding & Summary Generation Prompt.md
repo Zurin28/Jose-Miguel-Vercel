@@ -1,3 +1,15 @@
+---
+title: Codebase Understanding & Summary Generation Prompt
+tags:
+  - personal
+  - ai-prompts
+  - agentic-coder
+  - onboarding
+  - context-engineering
+---
+
+# 🤖 Codebase Understanding & Summary Generation Prompt
+
 ## Prompt
 
 You are acting as a **codebase analyst and onboarding agent**. Your job is to deeply understand this entire codebase and produce (or update) a `summary.md` file at the project root that gives any future AI agent (including yourself in a future session) everything it needs to work on this project confidently and consistently, without re-exploring from scratch.
@@ -97,4 +109,14 @@ markdown
 
 - Run this prompt at the start of a new session, or after a major feature/refactor, so `summary.md` stays current.
 - Future agents should be instructed (e.g. via a project-level system prompt or `CLAUDE.md`/`.cursorrules`) to **read `summary.md` first** before making changes, and to **update it** after completing significant work — this keeps the "second brain" of the codebase in sync.
+
+---
+
+## 🔗 Connections & Related Notes
+* **Personal Hub:** [[Personal Knowledge Hub (Map of Content)|Personal Knowledge Hub]]
+* **Agentic Workflows:** [[Agentic Workflow The Future of Intelligent Automation - Anti Gravity (Larry Mark Somocor)]] — How autonomous agents utilize memory, tools, and `agents.md` configurations.
+* **Context Engineering & CLI:** [[You are using AI the wrong way (Jaydee Ballajo)]] — Managing AI context files (`.md`) and subagent hierarchies.
+* **Rapid Web Delivery:** [[Build client ready website fast with Claude (Jlo Edios)]] — Context routers and `.claude.md` skills.
+* **Context Optimization:** [[GENERAL TAKE AWAY TIPS]] — Feeding lean markdown files to minimize token overhead.
+* **Application to Projects:** [[ZCMC Referral System MVP - Planned Architecture]] — Documenting complex software architectures.
 

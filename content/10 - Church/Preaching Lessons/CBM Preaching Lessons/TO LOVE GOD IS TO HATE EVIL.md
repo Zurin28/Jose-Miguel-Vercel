@@ -1,3 +1,15 @@
+---
+title: TO LOVE GOD IS TO HATE EVIL
+tags:
+  - church
+  - preaching
+  - cbm-series
+  - holiness
+  - stewardship
+---
+
+# 📖 TO LOVE GOD IS TO HATE EVIL
+
 ## 📖 Text: Psalms 93:10
 
 - **Evil** is going against God or things that are against God.
@@ -44,5 +56,12 @@
 - Ye that love the Lord, **Hate Evil**.
 - If you **love the Evil**, you **hate God**.
 
-[[THE OPPORTUNITY TO HAVE JESUS]] and today is [[Authentic Charitable Service]] 
-notefor
+---
+
+## 🔗 Connections & Related Notes
+* **Church Hub:** [[10 - Church/# 📖 Church & Ministry (Map of Content)|Church & Ministry]]
+* **Prior Message:** [[THE OPPORTUNITY TO HAVE JESUS]] — Finding true satisfaction and imputed value in Christ alone.
+* **Overcoming Temptation:** [[WHEN FIGHTING TEMPTATION]] — Understanding how the enemy appeals to worldly desires and fear.
+* **Agape vs Pride:** [[Authentic Charitable Service]] — 1 Corinthians 13 on genuine, selfless love instead of performance.
+* **Sanctification:** [[How to be Perfect]] — Examining ourselves and putting off self-righteousness.
+* **Devotional Plan:** [[Knowing Jesus Devotional Plan]] — Day 22 (Romans 12 - Not conformed to the world) and Day 25 (1 John 2).
