@@ -23,6 +23,11 @@ A foundational course on Artificial Intelligence, Machine Learning, and Neural N
 * [[Lecture 1]] — Introduction to AI: definitions, Turing Test, classification of intelligent systems, and the history of AI (1943–1960s).
 * [[Lecture 2]] — Machine Learning & ANNs: types of learning, artificial neural networks, perceptron learning rule, and training algorithms.
 
+### Advanced Database Systems (ADS)
+Relational modeling, transaction isolation, triggers, views, and stored procedures in MariaDB/MySQL.
+
+* [[SQL Lab - Views, Triggers, and Transactions (PMS Integration)]] — Lab breakdown: CLI delimiter debugging, state audit triggers, and atomic stored procedures mapped to [[PMS Inventory System - Database Design & Implementation Plan|PMS Trading Inventory System]].
+
 ---
 
 ## 🏥 Reverse Pitching Competition (ZCMC Healthcare Solution)
@@ -30,6 +35,13 @@ Documentation and technical design for the **Zamboanga City Medical Center (ZCMC
 
 * [[ZCMC Referral System MVP - Planned Architecture]] — Offline-first sync model with WatermelonDB, Laravel REST API, PostgreSQL, and data privacy safeguards.
 * [[ZCMC Referral System MVP - Proposed Features]] — Contextual referral-based messaging, emergency SMS fallback, intake triage forms, and admin KPI dashboards.
+
+---
+
+## 🌐 Web Server & Home Lab (WSL + VirtualBox)
+Environment setup for running a real networked web stack on one PC — Apache/PHP in WSL with the database hosted on a separate VirtualBox VM:
+
+* [[Website on WSL + Database on VirtualBox VM]] — Beginner guide: Bridged networking, MySQL remote access, PDO connection, Laravel config, and troubleshooting playbook.
 
 ---
 

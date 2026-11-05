@@ -25,6 +25,7 @@ Central index for active software engineering, system architecture, offline-firs
 * **PMS School and Office Supplies Trading**
   * [[PMS Inventory System - Project Architecture & Requirements Proposal]] — Web-based inventory tracking, automated stock calculation, delivery receipts (PDF/DOCX/PPTX), and office balance monitoring.
   * [[PMS Inventory System — Database Design & Implementation Plan]] — Advanced Database Systems (ADS) specification, MySQL 8.0 schema (15 tables), UNF-to-4NF normalization, SQL views/triggers, and zero-framework PHP API architecture.
+  * [[GitHub Push 403 Wrong Account Incident (Diagnosis & Prevention Playbook)]] — Resolved push-auth failure log and the reusable wrong-account 403 diagnosis/prevention playbook for any future repo.
 
 ### 🤖 Automation & E-Commerce
 * **Agentic Workspaces & Coding Agent Systems**

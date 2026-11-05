@@ -1,17 +1,17 @@
-# Graph Report - Second Brain  (2026-11-04)
+# Graph Report - Second Brain  (2026-11-05)
 
 ## Corpus Check
-- 43 files · ~27,799 words
+- 46 files · ~32,067 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: (none) 2, .base 1)
 
 ## Summary
-- 394 nodes · 515 edges · 39 communities (37 shown, 2 thin omitted)
+- 454 nodes · 583 edges · 39 communities (38 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ff6467dc`
+- Built from commit: `44ff2286`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -20,7 +20,7 @@
 - 🔍 Main types of learning
 - High-Performance Terminal Agent Architecture Template (Specification & Directives)
 - 📖 Authentic Charitable Service
-- Projects & Software Development (Map of Content).md
+- 🔐 GitHub Push 403 Wrong Account Incident (Diagnosis & Prevention Playbook)
 - Church & Ministry (Map of Content).md
 - ⚠️ 4 THINGS TO FIGHT TEMPTATION
 - 📝 SYSTEM INSTRUCTION: NOTE FORMATTING ASSISTANT
@@ -29,7 +29,7 @@
 - 📖 Mat 5:48 — Be ye therefore perfect, even as your Father which is in heaven is perfect.
 - Prompt
 - 💻 You Are Using AI the Wrong Way — CLI Workflows & Subagent Systems
-- 💡 Opportunities Gained
+- SQL Lab: Views, Triggers, and Stored Procedures with Transactions
 - 🎨 AI for Creatives — The Designer's AI Workflow
 - 🎤 Sessions & Keynotes
 - 🎨 World Premier — Design & Style Reference Guide
@@ -44,6 +44,7 @@
 - 👋 Hi, I'm Jm
 - 🧬 Self-Analogy: Identity, Sociability, and the Three Behavioral States
 - {{title}}
+- 🖥️ Website on WSL + Database on a VirtualBox VM
 - 🤖 Agentic System Architecture & Skill Verification
 - 🤖 Botcake Delivery Flow: LBC Cash on Delivery (COD) Architecture
 - 🏢 World Premier (WPP7 Trading) — Company Overview
@@ -58,22 +59,22 @@
 ## God Nodes (most connected - your core abstractions)
 1. `🎨 World Premier — Design & Style Reference Guide` - 12 edges
 2. `🔍 Main types of learning` - 10 edges
-3. `⚡ Build Client-Ready Websites Fast with Claude` - 9 edges
-4. `📦 PMS Inventory System — Project Architecture & Requirements Proposal` - 9 edges
-5. `🏢 World Premier (WPP7 Trading) — Company Overview` - 9 edges
-6. `📖 Authentic Charitable Service` - 8 edges
-7. `💻 You Are Using AI the Wrong Way — CLI Workflows & Subagent Systems` - 8 edges
-8. `🗄️ PMS Inventory System — Database Design & Implementation Plan` - 8 edges
-9. `8. 🚫 Anti-AI Gloss Rules — "Do NOT Make It Look Like Shiny AI"` - 8 edges
-10. `🏗️ ZCMC Referral System MVP — Planned Architecture` - 8 edges
+3. `🖥️ Website on WSL + Database on a VirtualBox VM` - 10 edges
+4. `SQL Lab: Views, Triggers, and Stored Procedures with Transactions` - 9 edges
+5. `⚡ Build Client-Ready Websites Fast with Claude` - 9 edges
+6. `📦 PMS Inventory System — Project Architecture & Requirements Proposal` - 9 edges
+7. `🏢 World Premier (WPP7 Trading) — Company Overview` - 9 edges
+8. `📖 Authentic Charitable Service` - 8 edges
+9. `💻 You Are Using AI the Wrong Way — CLI Workflows & Subagent Systems` - 8 edges
+10. `🗄️ PMS Inventory System — Database Design & Implementation Plan` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (39 total, 2 thin omitted)
+## Communities (39 total, 1 thin omitted)
 
 ### Community 0 - "Personal Knowledge Hub (Map of Content).md"
-Cohesion: 0.29
+Cohesion: 0.24
 Nodes (4): 🔗 Connections & Related Notes, 🕵️ Incident or Building Inspection, 🔗 Connections & Related Notes, 💡 General AI Event Takeaway Tips
 
 ### Community 1 - "🔍 Main types of learning"
@@ -88,13 +89,13 @@ Nodes (14): 1. System Identity & Operating Philosophy, 2.1 Security & Environmen
 Cohesion: 0.18
 Nodes (11): ✅ 1 — Accept that we are not perfect, ✅ 2 — Acknowledge and Ask God for Help, ✅ 3 — Aim to do things for the pleasing and Glory of God, 📖 Authentic Charitable Service, 📝 Conclusion, 🔗 Connections & Related Notes, 🔍 Context of the Text, 🎯 How can we make sure that we serve God with truthful Love and not Performance? (+3 more)
 
-### Community 4 - "Projects & Software Development (Map of Content).md"
-Cohesion: 0.18
-Nodes (9): 🌟 Alternate Variation: Direct Leader-to-Leader Appeal (Taglish), 📄 Bersyon 1: Natural, Warm & Direktang Tagalog (Inirerekomenda para sa Facebook Post / Group Announcement), 📄 Bersyon 2: Formal & Visionary (Para sa Official Event Opening, Stage Speech, o Video Reel Intro), 🔗 Kaugnay na mga Tala, 🔍 Paghahambing at Mga Pagsasaayos na Ginawa, 🖼️ Poster Quotes: Taglish (Medium-Length, Retaining Full Essence of Original), 🌟 Primary Recommendation: Complete Message with Full Original Energy (Taglish), 🖼️ Short One-Liner Poster Quotes (For Smaller Banners / Thumbnails) (+1 more)
+### Community 4 - "🔐 GitHub Push 403 Wrong Account Incident (Diagnosis & Prevention Playbook)"
+Cohesion: 0.29
+Nodes (7): 🔐 GitHub Push 403 Wrong Account Incident (Diagnosis & Prevention Playbook), 🛡️ Prevention — Stop It Happening Again, 🔗 Related Notes, 🧰 Reusable Playbook — "Push to GitHub returns 403 / Permission denied to <someone>", 🔍 Root Cause, 🛠️ The Fix (Applied), 📉 What Happened
 
 ### Community 5 - "Church & Ministry (Map of Content).md"
-Cohesion: 0.15
-Nodes (15): CBM Preaching Series, 📖 Church & Ministry (Map of Content), 🔗 Cross-Domain Connections, 🕊️ Devotional Plans & Discipleship, Personal Preaching & Messages, 🎙️ Preaching & Sermon Lessons, 🔗 Connections & Related Notes, Knowing Jesus & Becoming Like Him — 28-Day Reading Plan (+7 more)
+Cohesion: 0.10
+Nodes (22): CBM Preaching Series, 📖 Church & Ministry (Map of Content), 🔗 Cross-Domain Connections, 🕊️ Devotional Plans & Discipleship, Personal Preaching & Messages, 🎙️ Preaching & Sermon Lessons, 🔗 Connections & Related Notes, Knowing Jesus & Becoming Like Him — 28-Day Reading Plan (+14 more)
 
 ### Community 6 - "⚠️ 4 THINGS TO FIGHT TEMPTATION"
 Cohesion: 0.20
@@ -124,9 +125,9 @@ Nodes (8): 🤖 Codebase Understanding & Summary Generation Prompt, 🔗 Connect
 Cohesion: 0.25
 Nodes (8): 🛡️ AI Security in the CLI, 🔗 Connections & Related Notes, 🔍 Gemini CLI & Context Management, 🎯 Keynote: Jaydee Ballajo, ❓ Learning vs. Offloading, 🎯 Stop Using AI Exclusively from the Browser, 🔍 Subagent Architecture & Design, 💻 You Are Using AI the Wrong Way — CLI Workflows & Subagent Systems
 
-### Community 13 - "💡 Opportunities Gained"
-Cohesion: 0.29
-Nodes (7): ✅ 1 Instant Provision, ❓ 2 Imputed Value, 🔥 3 Increase our Favor, 🔗 Connections & Related Notes, 💡 Opportunities Gained, 📖 Text: John 2:3-10 (KJV), 📖 THE OPPORTUNITY TO HAVE JESUS
+### Community 13 - "SQL Lab: Views, Triggers, and Stored Procedures with Transactions"
+Cohesion: 0.09
+Nodes (22): 1.1 CLI Login Nuance, 1.2 Target Database, 1. Environment & Connection Setup, 2.1 Table Schemas & Seed Data, 2.2 View Definition: `v_employee_directory`, 2.3 Query & Verification, 2. Part 1: Relational Views (Data Abstraction), 3.1 Tables (+14 more)
 
 ### Community 14 - "🎨 AI for Creatives — The Designer's AI Workflow"
 Cohesion: 0.29
@@ -157,8 +158,8 @@ Cohesion: 0.33
 Nodes (6): 🔗 Connections & Related Notes, 💡 Gabrielle (System Planning & Scope), 💡 John Kyle (Execution Mindset), 🏆 Panel Discussion — Hack to Win, 🎯 Panel Insights, 💡 Vincent (Speed to Market & Learning)
 
 ### Community 21 - "💻 School & Computer Science (Map of Content)"
-Cohesion: 0.40
-Nodes (5): 📚 3rd Year — 1st Semester, 🔗 Cross-Domain Connections, Elective 2: Intelligent Systems, 🏥 Reverse Pitching Competition (ZCMC Healthcare Solution), 💻 School & Computer Science (Map of Content)
+Cohesion: 0.29
+Nodes (7): 📚 3rd Year — 1st Semester, Advanced Database Systems (ADS), 🔗 Cross-Domain Connections, Elective 2: Intelligent Systems, 🏥 Reverse Pitching Competition (ZCMC Healthcare Solution), 💻 School & Computer Science (Map of Content), 🌐 Web Server & Home Lab (WSL + VirtualBox)
 
 ### Community 22 - "📰 AI in Media Coverage and Editorial Standards"
 Cohesion: 0.40
@@ -184,6 +185,10 @@ Nodes (9): 1. Foundational Identity & Moral Framework, 2. Empathic Perception & 
 Cohesion: 0.25
 Nodes (7): 1. Context & Trigger, 2. Emotional & Cognitive Response, 3. Core Values & Drivers at Play, 4. Recurring Pattern / Mental Model, 5. Strategic Takeaway & Actionable Response, Related Links, {{title}}
 
+### Community 28 - "🖥️ Website on WSL + Database on a VirtualBox VM"
+Cohesion: 0.08
+Nodes (26): 1. The Big Picture, 2. Use Ubuntu, not Kali, 3. Part A: Set up the database (VirtualBox VM), 4. Part B: Set up the web server (WSL Ubuntu), 5. Part C: Connect the website to the database, 6. When it breaks, 7. Safety Basics, 8. Daily Start Routine (+18 more)
+
 ### Community 29 - "🤖 Agentic System Architecture & Skill Verification"
 Cohesion: 0.40
 Nodes (5): 1. Executive Summary, 2. Active Skill Interlock, 3. Verification Criteria, 🤖 Agentic System Architecture & Skill Verification, 🔗 Connections & Related Notes
@@ -193,8 +198,8 @@ Cohesion: 0.18
 Nodes (11): ⚙️ Best Practices in Botcake Configuration, 🤖 Botcake Delivery Flow: LBC Cash on Delivery (COD) Architecture, 🧭 Flow Architecture & Message Sequence, 🔗 Related Notes, Step 1: Fulfillment Confirmation & Delivery Selection, Step 2A: Branch Pick Up Route (Branch Pick Up), Step 2B: Door-to-Door Route (Door to Door), Step 3: Crucial Verification (Address-Matching Valid ID) (+3 more)
 
 ### Community 31 - "🏢 World Premier (WPP7 Trading) — Company Overview"
-Cohesion: 0.11
-Nodes (18): 1. 🏷️ Company Identity, 2. 🌿 Products & Services, 3. 🏗️ Distribution Model, 4. 💰 Compensation / Business Model, 5. 🛠️ Admin Role Summary (JM's Role — June 2025 to ~Early 2026), 6. 📁 Key Documents & File Assets, 7. 🗓️ Timeline, 8. 🔗 Related Notes (+10 more)
+Cohesion: 0.07
+Nodes (27): 🌟 Alternate Variation: Direct Leader-to-Leader Appeal (Taglish), 📄 Bersyon 1: Natural, Warm & Direktang Tagalog (Inirerekomenda para sa Facebook Post / Group Announcement), 📄 Bersyon 2: Formal & Visionary (Para sa Official Event Opening, Stage Speech, o Video Reel Intro), 🔗 Kaugnay na mga Tala, 🔍 Paghahambing at Mga Pagsasaayos na Ginawa, 🖼️ Poster Quotes: Taglish (Medium-Length, Retaining Full Essence of Original), 🌟 Primary Recommendation: Complete Message with Full Original Energy (Taglish), 🖼️ Short One-Liner Poster Quotes (For Smaller Banners / Thumbnails) (+19 more)
 
 ### Community 32 - "8. 🚫 Anti-AI Gloss Rules — "Do NOT Make It Look Like Shiny AI""
 Cohesion: 0.17
@@ -221,22 +226,22 @@ Cohesion: 0.22
 Nodes (9): 1. What OpenCode Is, 2. Configuration Layout, 3. Model Economy (as configured), 4. Skill Arsenal, 5. Dual-Path Workspace (see also global AGENTS.md), 6. Related, Inherited (12), 🧠 OpenCode V2 Setup & Token Discipline (+1 more)
 
 ## Knowledge Gaps
-- **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `🎨 World Premier — Design & Style Reference Guide` connect `🎨 World Premier — Design & Style Reference Guide` to `8. 🚫 Anti-AI Gloss Rules — "Do NOT Make It Look Like Shiny AI"`, `Projects & Software Development (Map of Content).md`?**
-  _High betweenness centrality (0.173) - this node is a cross-community bridge._
+- **Why does `🎨 World Premier — Design & Style Reference Guide` connect `🎨 World Premier — Design & Style Reference Guide` to `8. 🚫 Anti-AI Gloss Rules — "Do NOT Make It Look Like Shiny AI"`, `🏢 World Premier (WPP7 Trading) — Company Overview`?**
+  _High betweenness centrality (0.153) - this node is a cross-community bridge._
 - **Should `🔍 Main types of learning` be split into smaller, more focused modules?**
   _Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected._
-- **Why does `🏢 World Premier (WPP7 Trading) — Company Overview` connect `🏢 World Premier (WPP7 Trading) — Company Overview` to `Projects & Software Development (Map of Content).md`?**
-  _High betweenness centrality (0.080) - this node is a cross-community bridge._
+- **Why does `🖥️ Website on WSL + Database on a VirtualBox VM` connect `🖥️ Website on WSL + Database on a VirtualBox VM` to `Personal Knowledge Hub (Map of Content).md`?**
+  _High betweenness centrality (0.103) - this node is a cross-community bridge._
 - **Should `High-Performance Terminal Agent Architecture Template (Specification & Directives)` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
-- **Why does `🎯 Machine Learning and Artificial Neural Networks` connect `🔍 Main types of learning` to `Personal Knowledge Hub (Map of Content).md`?**
-  _High betweenness centrality (0.080) - this node is a cross-community bridge._
+- **Why does `SQL Lab: Views, Triggers, and Stored Procedures with Transactions` connect `SQL Lab: Views, Triggers, and Stored Procedures with Transactions` to `Personal Knowledge Hub (Map of Content).md`?**
+  _High betweenness centrality (0.087) - this node is a cross-community bridge._
 - **Should `Church & Ministry (Map of Content).md` be split into smaller, more focused modules?**
-  _Cohesion score 0.14624505928853754 - nodes in this community are weakly interconnected._
-- **Should `🎨 World Premier — Design & Style Reference Guide` be split into smaller, more focused modules?**
-  _Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.10114942528735632 - nodes in this community are weakly interconnected._
+- **Should `SQL Lab: Views, Triggers, and Stored Procedures with Transactions` be split into smaller, more focused modules?**
+  _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
